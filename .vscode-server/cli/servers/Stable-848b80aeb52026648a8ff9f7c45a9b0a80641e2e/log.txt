@@ -1,0 +1,42 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-61109de6-86f6-46f9-9036-52124d4ee677
+Extension host agent listening on /tmp/code-61109de6-86f6-46f9-9036-52124d4ee677
+
+[15:39:07] 
+
+
+
+
+[15:39:07] Extension host agent started.
+[15:39:07] Started initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+[15:39:07] ComputeTargetPlatform: linux-x64
+[15:39:07] Completed initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+[15:39:07] [<unknown>][ef5171ca][ManagementConnection] New connection established.
+[15:39:07] [<unknown>][41a4b5b6][ExtensionHostConnection] New connection established.
+[15:39:07] [<unknown>][41a4b5b6][ExtensionHostConnection] <27231> Launched Extension Host Process.
+[15:39:09] ComputeTargetPlatform: linux-x64
+[15:40:00] [<unknown>][ef5171ca][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:40:00] [<unknown>][41a4b5b6][ExtensionHostConnection] <27231> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[15:40:00] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[15:40:00] Last EH closed, waiting before shutting down
+[15:40:01] [<unknown>][adf161cc][ExtensionHostConnection] New connection established.
+[15:40:01] [<unknown>][adf161cc][ExtensionHostConnection] <27282> Launched Extension Host Process.
+[15:40:01] [<unknown>][f1d2c2e6][ManagementConnection] New connection established.
+New EH opened, aborting shutdown
+[15:45:00] New EH opened, aborting shutdown
+[15:54:03] [<unknown>][ee4e4590][ExtensionHostConnection] New connection established.
+[15:54:03] [<unknown>][ee4e4590][ExtensionHostConnection] <29229> Launched Extension Host Process.
+[15:54:03] [<unknown>][adf00029][ManagementConnection] New connection established.
+[15:56:13] [<unknown>][cb82c474][ExtensionHostConnection] New connection established.
+[15:56:13] [<unknown>][176de84d][ManagementConnection] New connection established.
+[15:56:13] [<unknown>][cb82c474][ExtensionHostConnection] <29485> Launched Extension Host Process.
+[15:56:15] [<unknown>][176de84d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:56:15] [<unknown>][cb82c474][ExtensionHostConnection] <29485> Extension Host Process exited with code: 0, signal: null.

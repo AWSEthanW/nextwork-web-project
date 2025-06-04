@@ -1,0 +1,29 @@
+2025-06-04 15:39:07.636 [info] 
+
+
+
+
+2025-06-04 15:39:07.648 [info] Extension host agent started.
+2025-06-04 15:39:07.709 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+2025-06-04 15:39:07.776 [info] ComputeTargetPlatform: linux-x64
+2025-06-04 15:39:07.781 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+2025-06-04 15:39:07.835 [info] [<unknown>][ef5171ca][ManagementConnection] New connection established.
+2025-06-04 15:39:07.878 [info] [<unknown>][41a4b5b6][ExtensionHostConnection] New connection established.
+2025-06-04 15:39:07.969 [info] [<unknown>][41a4b5b6][ExtensionHostConnection] <27231> Launched Extension Host Process.
+2025-06-04 15:39:09.469 [info] ComputeTargetPlatform: linux-x64
+2025-06-04 15:40:00.317 [info] [<unknown>][ef5171ca][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-06-04 15:40:00.343 [info] [<unknown>][41a4b5b6][ExtensionHostConnection] <27231> Extension Host Process exited with code: 0, signal: null.
+2025-06-04 15:40:00.344 [info] Cancelling previous shutdown timeout
+2025-06-04 15:40:00.344 [info] Last EH closed, waiting before shutting down
+2025-06-04 15:40:01.487 [info] [<unknown>][adf161cc][ExtensionHostConnection] New connection established.
+2025-06-04 15:40:01.491 [info] [<unknown>][adf161cc][ExtensionHostConnection] <27282> Launched Extension Host Process.
+2025-06-04 15:40:01.492 [info] [<unknown>][f1d2c2e6][ManagementConnection] New connection established.
+2025-06-04 15:45:00.346 [info] New EH opened, aborting shutdown
+2025-06-04 15:54:03.529 [info] [<unknown>][ee4e4590][ExtensionHostConnection] New connection established.
+2025-06-04 15:54:03.535 [info] [<unknown>][ee4e4590][ExtensionHostConnection] <29229> Launched Extension Host Process.
+2025-06-04 15:54:03.535 [info] [<unknown>][adf00029][ManagementConnection] New connection established.
+2025-06-04 15:56:13.451 [info] [<unknown>][cb82c474][ExtensionHostConnection] New connection established.
+2025-06-04 15:56:13.452 [info] [<unknown>][176de84d][ManagementConnection] New connection established.
+2025-06-04 15:56:13.456 [info] [<unknown>][cb82c474][ExtensionHostConnection] <29485> Launched Extension Host Process.
+2025-06-04 15:56:15.238 [info] [<unknown>][176de84d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-06-04 15:56:15.320 [info] [<unknown>][cb82c474][ExtensionHostConnection] <29485> Extension Host Process exited with code: 0, signal: null.

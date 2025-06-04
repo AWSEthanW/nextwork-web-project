@@ -1,0 +1,17 @@
+Listening on 127.0.0.1:35343
+[2025-06-04 15:39:04] info Disposed of connection to running server.
+[2025-06-04 15:39:04] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/pid.txt for a running server...
+[2025-06-04 15:39:04] info Downloading Visual Studio Code server -> /tmp/.tmpOena5O/vscode-server-linux-x64.tar.gz
+[2025-06-04 15:39:07] info Starting server...
+[2025-06-04 15:39:07] info Server started
+[2025-06-04 15:40:00] info Disposed of connection to running server.
+[2025-06-04 15:40:01] info Disposed of connection to running server.
+[2025-06-04 15:40:01] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/pid.txt for a running server...
+[2025-06-04 15:40:01] info Found running server (pid=27193)
+[2025-06-04 15:54:03] info Disposed of connection to running server.
+[2025-06-04 15:54:03] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/pid.txt for a running server...
+[2025-06-04 15:54:03] info Found running server (pid=27193)
+[2025-06-04 15:56:13] info Disposed of connection to running server.
+[2025-06-04 15:56:13] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/pid.txt for a running server...
+[2025-06-04 15:56:13] info Found running server (pid=27193)
+[2025-06-04 15:56:15] info Disposed of connection to running server.

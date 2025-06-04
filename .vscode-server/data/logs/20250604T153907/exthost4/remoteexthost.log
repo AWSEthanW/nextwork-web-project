@@ -1,0 +1,6 @@
+2025-06-04 15:56:14.770 [info] Extension host with pid 29485 started
+2025-06-04 15:56:14.874 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-06-04 15:56:14.948 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-06-04 15:56:14.948 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-04 15:56:15.305 [info] Extension host terminating: received terminate message from renderer
+2025-06-04 15:56:15.310 [info] Extension host with pid 29485 exiting with code 0
